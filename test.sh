@@ -517,7 +517,8 @@ new_config = '''config = {
                         "gstatic.com",
                         "googleapis.com",
                         "ggpht.com",
-                        "googleusercontent.com"
+                        "googleusercontent.com",
+                        "web.telegram.org"
                     ],
                     "outboundTag": "youtube"
                 }
